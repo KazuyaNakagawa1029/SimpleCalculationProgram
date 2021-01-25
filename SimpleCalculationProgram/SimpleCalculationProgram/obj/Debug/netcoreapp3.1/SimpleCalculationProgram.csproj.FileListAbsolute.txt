@@ -1,0 +1,15 @@
+C:\Users\NakagawaKazuya\source\repos\SimpleCalculationProgram\SimpleCalculationProgram\bin\Debug\netcoreapp3.1\SimpleCalculationProgram.exe
+C:\Users\NakagawaKazuya\source\repos\SimpleCalculationProgram\SimpleCalculationProgram\bin\Debug\netcoreapp3.1\SimpleCalculationProgram.deps.json
+C:\Users\NakagawaKazuya\source\repos\SimpleCalculationProgram\SimpleCalculationProgram\bin\Debug\netcoreapp3.1\SimpleCalculationProgram.runtimeconfig.json
+C:\Users\NakagawaKazuya\source\repos\SimpleCalculationProgram\SimpleCalculationProgram\bin\Debug\netcoreapp3.1\SimpleCalculationProgram.runtimeconfig.dev.json
+C:\Users\NakagawaKazuya\source\repos\SimpleCalculationProgram\SimpleCalculationProgram\bin\Debug\netcoreapp3.1\SimpleCalculationProgram.dll
+C:\Users\NakagawaKazuya\source\repos\SimpleCalculationProgram\SimpleCalculationProgram\bin\Debug\netcoreapp3.1\SimpleCalculationProgram.pdb
+C:\Users\NakagawaKazuya\source\repos\SimpleCalculationProgram\SimpleCalculationProgram\obj\Debug\netcoreapp3.1\SimpleCalculationProgram.csprojAssemblyReference.cache
+C:\Users\NakagawaKazuya\source\repos\SimpleCalculationProgram\SimpleCalculationProgram\obj\Debug\netcoreapp3.1\SimpleCalculationProgram.csproj.GenerateResource.cache
+C:\Users\NakagawaKazuya\source\repos\SimpleCalculationProgram\SimpleCalculationProgram\obj\Debug\netcoreapp3.1\SimpleCalculationProgram.AssemblyInfoInputs.cache
+C:\Users\NakagawaKazuya\source\repos\SimpleCalculationProgram\SimpleCalculationProgram\obj\Debug\netcoreapp3.1\SimpleCalculationProgram.AssemblyInfo.cs
+C:\Users\NakagawaKazuya\source\repos\SimpleCalculationProgram\SimpleCalculationProgram\obj\Debug\netcoreapp3.1\SimpleCalculationProgram.csproj.CoreCompileInputs.cache
+C:\Users\NakagawaKazuya\source\repos\SimpleCalculationProgram\SimpleCalculationProgram\obj\Debug\netcoreapp3.1\SimpleCalculationProgram.dll
+C:\Users\NakagawaKazuya\source\repos\SimpleCalculationProgram\SimpleCalculationProgram\obj\Debug\netcoreapp3.1\SimpleCalculationProgram.pdb
+C:\Users\NakagawaKazuya\source\repos\SimpleCalculationProgram\SimpleCalculationProgram\obj\Debug\netcoreapp3.1\SimpleCalculationProgram.genruntimeconfig.cache
+C:\Users\NakagawaKazuya\source\repos\SimpleCalculationProgram\SimpleCalculationProgram\obj\Debug\netcoreapp3.1\SimpleCalculationProgram.Parse.resources
